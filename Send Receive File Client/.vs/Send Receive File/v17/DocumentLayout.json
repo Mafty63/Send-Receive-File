@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Engineer\\Documents\\Tugas\\Pemrograman jaringan komputer\\Send Receive File\\Send Receive File Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EC4CF8-E09A-49BA-A5A0-CCD1B4C612E4}|Send Receive File\\Send Receive File.csproj|c:\\users\\engineer\\documents\\tugas\\pemrograman jaringan komputer\\send receive file\\send receive file client\\send receive file\\send_receive_file_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0EC4CF8-E09A-49BA-A5A0-CCD1B4C612E4}|Send Receive File\\Send Receive File.csproj|solutionrelative:send receive file\\send_receive_file_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EC4CF8-E09A-49BA-A5A0-CCD1B4C612E4}|Send Receive File\\Send Receive File.csproj|C:\\Users\\Engineer\\Documents\\Tugas\\Pemrograman jaringan komputer\\Send Receive File\\Send Receive File Client\\send receive file\\send_receive_file_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0EC4CF8-E09A-49BA-A5A0-CCD1B4C612E4}|Send Receive File\\Send Receive File.csproj|solutionrelative:send receive file\\send_receive_file_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EC4CF8-E09A-49BA-A5A0-CCD1B4C612E4}|Send Receive File\\Send Receive File.csproj|c:\\users\\engineer\\documents\\tugas\\pemrograman jaringan komputer\\send receive file\\send receive file client\\send receive file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0EC4CF8-E09A-49BA-A5A0-CCD1B4C612E4}|Send Receive File\\Send Receive File.csproj|solutionrelative:send receive file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EC4CF8-E09A-49BA-A5A0-CCD1B4C612E4}|Send Receive File\\Send Receive File.csproj|c:\\users\\engineer\\documents\\tugas\\pemrograman jaringan komputer\\send receive file\\send receive file client\\send receive file\\send_receive_file_client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0EC4CF8-E09A-49BA-A5A0-CCD1B4C612E4}|Send Receive File\\Send Receive File.csproj|solutionrelative:send receive file\\send_receive_file_client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Send_Receive_File_Client.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Engineer\\Documents\\Tugas\\Pemrograman jaringan komputer\\Send Receive File\\Send Receive File Client\\Send Receive File\\Send_Receive_File_Client.cs",
+              "RelativeDocumentMoniker": "Send Receive File\\Send_Receive_File_Client.cs",
+              "ToolTip": "C:\\Users\\Engineer\\Documents\\Tugas\\Pemrograman jaringan komputer\\Send Receive File\\Send Receive File Client\\Send Receive File\\Send_Receive_File_Client.cs [Design]",
+              "RelativeToolTip": "Send Receive File\\Send_Receive_File_Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:08:20.855Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Engineer\\Documents\\Tugas\\Pemrograman jaringan komputer\\Send Receive File\\Send Receive File Client\\Send Receive File\\Program.cs",
+              "RelativeDocumentMoniker": "Send Receive File\\Program.cs",
+              "ToolTip": "C:\\Users\\Engineer\\Documents\\Tugas\\Pemrograman jaringan komputer\\Send Receive File\\Send Receive File Client\\Send Receive File\\Program.cs",
+              "RelativeToolTip": "Send Receive File\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:42:41.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Send_Receive_File_Client.cs",
+              "DocumentMoniker": "C:\\Users\\Engineer\\Documents\\Tugas\\Pemrograman jaringan komputer\\Send Receive File\\Send Receive File Client\\Send Receive File\\Send_Receive_File_Client.cs",
+              "RelativeDocumentMoniker": "Send Receive File\\Send_Receive_File_Client.cs",
+              "ToolTip": "C:\\Users\\Engineer\\Documents\\Tugas\\Pemrograman jaringan komputer\\Send Receive File\\Send Receive File Client\\Send Receive File\\Send_Receive_File_Client.cs",
+              "RelativeToolTip": "Send Receive File\\Send_Receive_File_Client.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwCcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:41:43.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Send_Receive_File_Client.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Engineer\\Documents\\Tugas\\Pemrograman jaringan komputer\\Send Receive File\\Send Receive File Client\\Send Receive File\\Send_Receive_File_Client.Designer.cs",
+              "RelativeDocumentMoniker": "Send Receive File\\Send_Receive_File_Client.Designer.cs",
+              "ToolTip": "C:\\Users\\Engineer\\Documents\\Tugas\\Pemrograman jaringan komputer\\Send Receive File\\Send Receive File Client\\Send Receive File\\Send_Receive_File_Client.Designer.cs",
+              "RelativeToolTip": "Send Receive File\\Send_Receive_File_Client.Designer.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:22:08.694Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
